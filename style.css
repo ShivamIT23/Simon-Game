@@ -3,3 +3,19 @@
     padding: 0;
 }
 
+body{
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    margin: 2.4rem;
+    border: 13px solid black;
+    border-radius: 24%;
+}
