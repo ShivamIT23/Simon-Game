@@ -19,3 +19,24 @@ body{
     border: 13px solid black;
     border-radius: 24%;
 }
+
+.red{
+    background-color: rgba(250, 128, 128, 0.685);
+}
+
+.green{
+    background-color: aquamarine;
+}
+
+.blue{
+    background-color: rgb(51, 180, 231);
+}
+
+.purple{
+    background-color: rgba(141, 18, 141, 0.692);
+}
+
+
+.blink{
+    background-color: aliceblue;
+}
